@@ -1,0 +1,43 @@
+background:url('joinnow.png') center no-repeat; background-size: 100% 100%; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 30px 70px;
+}
+.leftbutton {
+  background:url('whoweare.png') center no-repeat; background-size: 100% 100%;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 195px 195px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.middlebutton {
+background:url('whyjoin.png') center no-repeat; background-size: 100% 100%; /* Green */
+  border: none;
+  color: white;
+  padding: 195px 195px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.rightbutton {
+  background:url('mission.png') center no-repeat; background-size: 100% 100%; /* Green */
+  border: none;
+  color: white;
+  padding: 195px 195px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+p {
+font-family: "Bodoni MT", "Didot", serif;
+}
